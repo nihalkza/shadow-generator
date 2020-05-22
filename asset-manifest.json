@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shadow-generator/static/css/main.ab32de41.chunk.css",
+    "main.js": "/shadow-generator/static/js/main.da680c68.chunk.js",
+    "main.js.map": "/shadow-generator/static/js/main.da680c68.chunk.js.map",
+    "runtime-main.js": "/shadow-generator/static/js/runtime-main.265f74aa.js",
+    "runtime-main.js.map": "/shadow-generator/static/js/runtime-main.265f74aa.js.map",
+    "static/js/2.26bba23b.chunk.js": "/shadow-generator/static/js/2.26bba23b.chunk.js",
+    "static/js/2.26bba23b.chunk.js.map": "/shadow-generator/static/js/2.26bba23b.chunk.js.map",
+    "index.html": "/shadow-generator/index.html",
+    "precache-manifest.f95a061413bfe4287ddc55aa56950399.js": "/shadow-generator/precache-manifest.f95a061413bfe4287ddc55aa56950399.js",
+    "service-worker.js": "/shadow-generator/service-worker.js",
+    "static/css/main.ab32de41.chunk.css.map": "/shadow-generator/static/css/main.ab32de41.chunk.css.map",
+    "static/js/2.26bba23b.chunk.js.LICENSE.txt": "/shadow-generator/static/js/2.26bba23b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.265f74aa.js",
+    "static/js/2.26bba23b.chunk.js",
+    "static/css/main.ab32de41.chunk.css",
+    "static/js/main.da680c68.chunk.js"
+  ]
+}
